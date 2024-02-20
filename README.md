@@ -14,14 +14,14 @@ What are the top movies based on budget and profit?
 Which genre and in which year it has the highest number of releases?
 
 ### Libraries used
-1.Numpy
-2.Pandas
-3.Matplotlib
+1. Numpy
+2. Pandas
+3. Matplotlib
 
 ### Files used
-1.tmdb movies.csv
-2.README.md
-3.Investigate_a_Dataset_tmdb.ipynb
+1. tmdb movies.csv
+2. README.md
+3. Investigate_a_Dataset_tmdb.ipynb
 
 ### Results
 1. Among the top 10 movies having highest budget, 'The Warrior's Way' stands as top 1 highest budgeted movie and 'Waterworld' stands as top10 highest budgeted movie.
