@@ -1,10 +1,10 @@
 # TMDB_movie_data
 
 ## Table of Contents
-1.Project Motivation
-2.Libraries used
-3.Files used
-4.Results
+1. Project Motivation
+2. Libraries used
+3. Files used
+4. Results
 
 
 ### Project Motivation
